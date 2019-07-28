@@ -1,6 +1,6 @@
 # findtrylike-overview
 
-Choice morsels from the architecture and development of the [findtrylike site](https://www.findtrylike.com/).  Not all code, some diagrams too, Enjoy!
+Choice morsels from the architecture and development of the [findtrylike site](https://www.findtrylike.com/).  React, NodeJS, AWS - DynamoDB, AppSync (GraphQL), and headless CMS.
 
 ![AWS Architecture Schematic - described in following text](common/images/AWS_Serverless_Web_App_Hosting.png "AWS Architecture Schematic")
 
